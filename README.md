@@ -32,7 +32,7 @@ Machine Learning Algorithms Training for computer science students.
     <tbody>
         <tr>
 <th rowspan=4 align="center">01</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Linear-Algebra-for-Machine-Learning-and-Data-Science">Linear Algebra for Machine Learning and Data Science</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Linear-Algebra-for-Machine-Learning-and-Data-Science">Linear Algebra for Machine Learning and Data Science</a></th>
 <th align="left">Week 01: Systems of linear equations</th>
 <th rowspan=11 align="center">
 10 Lecture Notes  <br><br>
@@ -44,14 +44,14 @@ Machine Learning Algorithms Training for computer science students.
 <tr><th align="left">Week 04: Determinants and Eigenvectors</th></tr>
         <tr>
 <th rowspan=3 align="center">02</th>
-<th rowspan=3 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Calculus-for-Machine-Learning-and-Data-Science">Calculus for Machine Learning and Data Science</a></th>
+<th rowspan=3 align="center"><a href="/deeplearning.ai/Calculus-for-Machine-Learning-and-Data-Science">Calculus for Machine Learning and Data Science</a></th>
 <th align="left">Week 01: Derivatives and Optimization</th>
         </tr>
 <tr><th align="left">Week 02: Gradients and Gradient Descent</th></tr>
 <tr><th align="left">Week 03: Optimization in Neural Networks and Newton's Method</th></tr>
         <tr>
 <th rowspan=4 align="center">03</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Probability-and-Statistics-for-Machine-Learning-and-Data-Science">Probability and Statistics for Machine Learning and Data Science</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Probability-and-Statistics-for-Machine-Learning-and-Data-Science">Probability and Statistics for Machine Learning and Data Science</a></th>
 <th align="left">Week 01: Introduction to Probability and Probability Distributions</th>
         </tr>
 <tr><th align="left">Week 02: Describing probability distributions and probability distributions with multiple variables</th></tr>
@@ -76,7 +76,7 @@ Machine Learning Algorithms Training for computer science students.
     <tbody>
         <tr>
 <th rowspan=3 align="center">04</th>
-<th rowspan=3 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Supervised-Machine-Learning-Regression-and-Classification">Supervised Machine Learning: Regression and Classification</a></th>
+<th rowspan=3 align="center"><a href="/deeplearning.ai/Supervised-Machine-Learning-Regression-and-Classification">Supervised Machine Learning: Regression and Classification</a></th>
 <th align="left">Week 01: Introduction to Machine Learning</th>
 <th rowspan=10 align="center">
 10 Lecture Notes  <br><br>
@@ -87,14 +87,14 @@ Machine Learning Algorithms Training for computer science students.
 <tr><th align="left">Week 03: Classification</th></tr>
         <tr>
 <th rowspan=3 align="center">05</th>
-<th rowspan=3 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Unsupervised-Learning-Recommenders-Reinforcement-Learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a></th>
+<th rowspan=3 align="center"><a href="/deeplearning.ai/Unsupervised-Learning-Recommenders-Reinforcement-Learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a></th>
 <th align="left">Week 01: Unsupervised learning</th>
         </tr>
 <tr><th align="left">Week 02: Recommender systems</th></tr>
 <tr><th align="left">Week 03: Reinforcement learning</th></tr>
         <tr>
 <th rowspan=4 align="center">06</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms/tree/master/deeplearning.ai/Advanced-Learning-Algorithms">Advanced Learning Algorithms</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Advanced-Learning-Algorithms">Advanced Learning Algorithms</a></th>
 <th align="left">Week 01: Neural Networks</th>
         </tr>
 <tr><th align="left">Week 02: Neural network training</th></tr>
